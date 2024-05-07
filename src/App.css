@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.form-control {
+  width: 300px;
+  padding: 7px;
+  border-radius: 10px ;
+  margin: 10px;
+}
+
+.btn-sm{
+  background-color: #da0000;
+}
+
+.btn-success{
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.formulario{
+  width: 200px;
+}
+
+.alert-danger{
+  color: #da0000;
+}
+
+.alert-success{
+  color: #06c64c;
+}
